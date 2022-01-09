@@ -10,7 +10,7 @@ https://github.com/itzpradip
 https://github.com/tjdavenport
 
 # Project Demo
-![](gifs/"Screen_Recording_20220109-151814_Expo Go.gif")
-![](gifs/"Screen_Recording_20220109-152310_Expo Go_Trim.gif")
+![](gifs/gif0.gif)
+![](gifs/gif1.gif)
 
 
