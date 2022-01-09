@@ -6,9 +6,7 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -22,11 +20,12 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "backgroundColor": "#dc143c"
       }
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "FridgeBuddy has two main functionalities. The first feature is the ability to keep a record of the food in your fridge. For each food item, the app will keep track of its expiration date, cost, and calories. Moreover, the second feature of this app is the ability to create meals based on the ingredients in your fridge and give an output of the total cost and calories/macros of it. FridgeBuddy will allow people like students on budgets to stay under their daily food expenses and still allow them to eat healthy meals."
   }
 }
