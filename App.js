@@ -31,6 +31,10 @@ const Drawer = createDrawerNavigator();
 export default function App() {
   return (
     <NavigationContainer>
+      <RootStackScreen />
+    </NavigationContainer>
+
+    /*<NavigationContainer>
       <Drawer.Navigator drawerContent={(props) => <DrawerContent {...props} />}>
         <Drawer.Screen
           name="HomeDrawer"
@@ -38,6 +42,6 @@ export default function App() {
           options={{ headerShown: false }}
         />
       </Drawer.Navigator>
-    </NavigationContainer>
+    </NavigationContainer>*/
   );
 }

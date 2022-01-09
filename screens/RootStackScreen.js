@@ -9,7 +9,11 @@ import SignUpScreen from "./SignUpScreen";
 const RootStack = createStackNavigator();
 
 const RootStackScreen = ({ navigation }) => (
-  <RootStack.Navigator>
+  <RootStack.Navigator
+    screenOptions={{
+      headerShown: false,
+    }}
+  >
     <RootStack.Screen name="SplashScreen" component={SplashScreen} />
     <RootStack.Screen name="SignInScreen" component={SignInScreen} />
   </RootStack.Navigator>

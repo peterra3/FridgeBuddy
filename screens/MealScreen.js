@@ -8,15 +8,7 @@ const MealsScreen = ({ navigation }) => {
 
   const theme = useTheme();
 
-  return (
-    <View style={styles.container}>
-      <Text style={{ color: colors.text }}>Home Screen</Text>
-      <Button
-        title="Go to details screen"
-        onPress={() => navigation.navigate("ItemSearchBarScreen")}
-      />
-    </View>
-  );
+  return <View style={styles.container}></View>;
 };
 
 export default MealsScreen;
