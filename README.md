@@ -11,6 +11,6 @@ FridgeBuddy is a mobile app that has two main functionalities. The first feature
 
 
 
-FORMATTING AND DESIGN OF APP IS ACCREDITED TO THE FOLLOWING DEVELOPERS:
+FORMATTING AND DESIGN OF APP IS ACCREDITED TO THE FOLLOWING DEVELOPERS: <br />
 https://github.com/itzpradip <br />
 https://github.com/tjdavenport
